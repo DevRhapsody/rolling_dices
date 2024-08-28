@@ -3,7 +3,6 @@ import time
 import os
 
 # --------------- Players  --------------- #
-
 print()
 
 while True:  
@@ -62,4 +61,3 @@ except KeyboardInterrupt:
     print("\n\n### Le jeu est terminé. ###\n")
     time.sleep(5)
     os.system('cls')
-
